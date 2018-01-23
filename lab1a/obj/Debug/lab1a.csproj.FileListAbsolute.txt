@@ -1,0 +1,7 @@
+C:\Users\Safa\source\repos\lab1a\lab1a\obj\Debug\lab1a.csproj.CoreCompileInputs.cache
+C:\Users\Safa\source\repos\lab1a\lab1a\bin\Debug\lab1a.exe.config
+C:\Users\Safa\source\repos\lab1a\lab1a\bin\Debug\lab1a.exe
+C:\Users\Safa\source\repos\lab1a\lab1a\bin\Debug\lab1a.pdb
+C:\Users\Safa\source\repos\lab1a\lab1a\obj\Debug\lab1a.csprojResolveAssemblyReference.cache
+C:\Users\Safa\source\repos\lab1a\lab1a\obj\Debug\lab1a.exe
+C:\Users\Safa\source\repos\lab1a\lab1a\obj\Debug\lab1a.pdb
